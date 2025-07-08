@@ -1,6 +1,6 @@
 package com.quantum.bookstore;
 
-public class QuantumBookstoreFullTest {
+public class Main {
     public static void main(String[] args) {
         BookInventory inventory = new BookInventory();
 
@@ -10,7 +10,7 @@ public class QuantumBookstoreFullTest {
         inventory.removeOutdatedBooks(10);
         double paid = inventory.buyBook("PB1", 2, "mohamedtamershebita@gmail.com", "Cairo, Egypt");
         System.out.println("Quantum book store: Paid amount = " + paid);
-        double paid2 = inventory.buyBook("DP1", 1, "mohamedtamershebita@gmail.com", "N/A");
+        double paid2 = inventory.buyBook("DP1", 1, "mohamedtamershebita@gmail.com", "Giza, Egypt");
         System.out.println("Quantum book store: Paid amount = " + paid);
     }
 }
