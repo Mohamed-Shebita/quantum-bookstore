@@ -1,6 +1,6 @@
 # 📚 Quantum Bookstore using Java
 
-This repository contains the implementation of the Quantum Bookstore, a Java-based console application developed as part of the Fawry N² Dev Slope Challenge.
+This repository contains the implementation of the Quantum Bookstore, a Java-based console application as part of the Fawry N² Dev Slope Challenge.
 
 ## 🚀 Project Overview
 
